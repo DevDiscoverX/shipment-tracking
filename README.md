@@ -1,4 +1,4 @@
-# Shipment Tracking
+# Clone Shipment Tracking App
 
 A web application built using React to track shipments in real-time. It provides users with the ability to view detailed information about their shipments, including transit history, status updates, and transporter details. The app is styled with Tailwind CSS and is deployed on GitHub Pages.
 
