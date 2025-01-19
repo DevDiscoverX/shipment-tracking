@@ -7,7 +7,7 @@ import './index.css';  // or './tailwind.css', depending on your CSS file name
 
 const ShipmentTracking = () => {
   const transitHistory = [
-    { status: 'GATE OUT', location: 'BAJAJ', dateTime: '24 OCT 2024 08:50:00 PM' },
+    { status: 'GATE OUT', location: 'XYZ-COMPANY', dateTime: '24 OCT 2024 08:50:00 PM' },
     { status: 'Pickup', location: 'XYZ', dateTime: '24 OCT 2024 06:45:00 PM' },
     { status: 'Branch - IN', location: 'XYZ', dateTime: '25 OCT 2024 04:14:00 AM' },
     { status: 'Branch - OUT', location: 'XYZ', dateTime: '25 OCT 2024 08:55:00 PM' },
