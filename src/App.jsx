@@ -25,7 +25,7 @@ const ShipmentTracking = () => {
   return (
     <div className="max-w-6xl mx-auto p-4">
       <div className="text-xl font-bold text-emerald-500 mb-6">
-        SPARES @ BAJAJ AUTO 
+        SPARES @ BAJAJ AUTO CLONE APP
       </div>
 
       <div className="flex gap-4 mb-6">
