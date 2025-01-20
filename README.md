@@ -20,5 +20,5 @@ A web application built using React to track shipments in real-time. It provides
 ## Setup
 
 1. **Clone the repository**:
-   ```bash
+   ```bash 
    git clone https://github.com/DevDiscoverX/shipment-tracking.git
